@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 1091.0, 218.0, 1434.0, 769.0 ],
+		"rect" : [ 1091.0, 218.0, 1029.0, 769.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -42,10 +42,12 @@
 					"maxclass" : "kslider",
 					"numinlets" : 2,
 					"numoutlets" : 2,
+					"offset" : 21,
 					"outlettype" : [ "int", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 882.0, 369.011902, 336.0, 53.0 ],
-					"presentation_rect" : [ 0.0, 0.0, 336.0, 53.0 ],
+					"patching_rect" : [ 514.0, 652.011902, 420.0, 53.0 ],
+					"presentation_rect" : [ 0.0, 0.0, 420.0, 53.0 ],
+					"range" : 60,
 					"style" : ""
 				}
 
