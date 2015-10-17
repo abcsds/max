@@ -1,4 +1,4 @@
-# MD
+## MIDI
 4 data in midi
  - type (keystroke)
  - channel
@@ -16,3 +16,8 @@ swivel
 
 144 keystroke
 176 controller message
+
+
+osc -> udp
+
+http://en.flossmanuals.net/pure-data/midi/using-midi/
