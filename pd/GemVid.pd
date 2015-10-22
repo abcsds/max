@@ -1,0 +1,37 @@
+#N canvas 771 124 535 623 10;
+#X obj -13 1 gemhead;
+#X obj 122 28 gemwin;
+#X obj -13 144 pix_video;
+#X obj 197 539 pix_texture;
+#X msg 259 505 quality \$1;
+#X obj 264 480 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+1;
+#X obj 195 565 rectangle 5.33 4;
+#X msg 30 66 device 1;
+#X msg 9 34 device 0;
+#X msg 122 -4 dimen 800 600 \, create \, 1;
+#X msg 120 108 dimen \$1 \$2;
+#X obj 146 79 hsl 128 15 10 600 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 119 58 hsl 128 15 10 800 0 0 empty empty empty -2 -8 0 10 -262144
+-1 -1 0 1;
+#X obj 351 144 pix_duotone;
+#X msg 429 66 0.2 0.1 0.2;
+#X msg 429 93 1 0 0;
+#X msg 429 119 0 0 1;
+#X obj -11 169 pix_2gray;
+#X connect 0 0 2 0;
+#X connect 2 0 17 0;
+#X connect 3 0 6 0;
+#X connect 4 0 3 0;
+#X connect 5 0 4 0;
+#X connect 7 0 2 0;
+#X connect 8 0 2 0;
+#X connect 9 0 1 0;
+#X connect 10 0 2 0;
+#X connect 11 0 10 0;
+#X connect 12 0 10 0;
+#X connect 14 0 13 1;
+#X connect 15 0 13 2;
+#X connect 16 0 13 3;
+#X connect 17 0 3 0;
