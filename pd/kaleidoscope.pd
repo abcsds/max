@@ -1,4 +1,4 @@
-#N canvas 334 93 961 634 10;
+#N canvas 76 106 561 634 10;
 #X obj -13 1 gemhead;
 #X obj 122 28 gemwin;
 #X obj -13 144 pix_video;
@@ -16,7 +16,7 @@
 #X floatatom 202 203 5 0 0 0 - - -;
 #X obj 138 292 pix_buf;
 #X obj 202 175 hsl 128 15 -3 3 0 0 empty empty empty -2 -8 0 10 -262144
--1 -1 8100 1;
+-1 -1 8400 1;
 #X obj 150 368 pix_kaleidoscope;
 #X obj 1 172 pix_rgb2hsv;
 #X obj 202 98 osc~ 0.01;
@@ -65,6 +65,10 @@
 #X obj 766 47 metro 10;
 #X obj 709 94 tabwrite~ disp;
 #X obj 612 26 r~ VU;
+#X obj 170 339 nbx 5 14 0 50 0 0 empty empty empty 0 -8 0 10 -262144
+-1 -1 6 256;
+#X obj 169 311 hradio 15 1 0 20 empty empty empty 0 -8 0 10 -262144
+-1 -1 6;
 #X connect 0 0 2 0;
 #X connect 2 0 17 0;
 #X connect 3 0 6 0;
@@ -111,3 +115,5 @@
 #X connect 50 0 51 0;
 #X connect 51 0 52 0;
 #X connect 53 0 45 0;
+#X connect 54 0 16 1;
+#X connect 55 0 54 0;
