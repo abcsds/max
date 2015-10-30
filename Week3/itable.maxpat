@@ -51,7 +51,7 @@
 					"range" : 128,
 					"size" : 15,
 					"style" : "",
-					"table_data" : [ 0, 69, 69, 70, 71, 72, 72, 73, 74, 74, 75, 75, 75, 75, 76, 73 ]
+					"table_data" : [ 0, 0, 0, 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0 ]
 				}
 
 			}
@@ -200,9 +200,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 564.0, 350.0, 58.0, 22.0 ],
+					"patching_rect" : [ 564.0, 350.0, 65.0, 22.0 ],
 					"style" : "",
-					"text" : "metro 50"
+					"text" : "metro 100"
 				}
 
 			}
