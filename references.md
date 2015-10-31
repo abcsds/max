@@ -13,7 +13,7 @@ Emotiv and Max
 Conect Processing through OSC
 
 
-Spear audio for spectral edition
+[Spear audio for spectral edition](http://www.klingbeil.com/spear/)
 
 
 grisey -> spectral music
