@@ -1,6 +1,7 @@
 d1 $ midi note " 35 25 32"
 d1 $ sound "bd*2[sn:2 bd/2]"
 d2 $ sound "sn sn"
+d3 $ sound "bd sn/3 sn/2"
 hush
 k $ note "40 [32 34] 36*2 42*3" # detune (slow 4 sine1)
 k $ note "[[32 34], [36 38]]"
