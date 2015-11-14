@@ -1,0 +1,12 @@
+2n
+2nt
+2nd
+4n
+4nt
+4nd
+8n
+8nt
+8nd
+16n
+16nt
+16nd
