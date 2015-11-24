@@ -1,0 +1,228 @@
+Pd 0.46.6. on aqua
+Tcl/Tk 8.4.19
+------------------------------------------------------------------------------
+{} 4 {------------------ done with main ----------------------
+} {} 3 {Connection from 'pd' to 'pd-gui' on 127.0.0.1:50022
+} {} 5 {::tk::mac::OpenApplication  ++++++++++++} {} 14 {The Pd window filtered 3 lines
+} {} 2 {sigmund~ version 0.07
+} {} 2 {bonk version 1.5
+} {} 2 {expr, expr~, fexpr~ version 0.4 under GNU Lesser General Public License 
+} {} 2 {pd~ version 0.3
+} {} 2 {} {} 2 { } {} 2 /home/dnd/dnd/clave/output~ {} 2 {
+} {} 1 {... couldn't create
+} .x100361920 1 {conflicting block~ objects in same page
+} {} 4 {... you might be able to track this down from the Find menu.
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {saved to: /Users/abcsds/github/max/pd/dalay.pd
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {saved to: /Users/abcsds/github/max/pd/dalay.pd
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x1003b1220 1 {tabread~: env: no such array
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 5 {::tk::mac::ReopenApplication  ++++++++++} .x1003b1220 1 {tabread~: env: no such array
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 1 {can't connect signal outlet to control inlet
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x10023c980 1 {tabread: no method for 'bang'
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {} {} 2 { } {} 2 mad {} 2 { } {} 2 100 {} 2 {
+} {} 1 {... couldn't create
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {saved to: /Users/abcsds/noiseSynth.pd
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {saved to: /Users/abcsds/noiseSynth.pd
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100243770 1 {line: no method for 'bang'
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x1003baf40 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 1 {can't connect signal outlet to control inlet
+} .x1003baf40 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {} {} 2 { } {} 2 vline {} 2 {
+} {} 1 {... couldn't create
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10023da50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {} {} 2 { } {} 2 snapshot {} 2 {
+} {} 1 {... couldn't create
+} {} 2 {found item 1 out of 3 total
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 2 {saved to: /Users/abcsds/noiseSynth.pd
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x100361920 1 {conflicting block~ objects in same page
+} .x10039ea50 1 {signal outlet connect to nonsignal inlet (ignored)
+} .x10039eb10 1 {signal outlet connect to nonsignal inlet (ignored)
+} {} 5 {::tk::mac::ReopenApplication  ++++++++++} {} 2 {saved to: /Users/abcsds/noiseSynth.pd
+}
